@@ -26,9 +26,33 @@ Backend Engineer with 2.5+ years of experience building and managing production 
 
 ## 🚀 Featured Projects
 
-🔹 OpenNMS High Availability System
-🔹 Go CRUD API with PostgreSQL
-🔹 Docker-based Deployment Setup
+### 🔹 OpenNMS High Availability System
+
+Designed and implemented a High Availability setup using Keepalived and rsync to ensure zero downtime monitoring.
+
+* Automatic failover between primary and secondary servers
+* Data synchronization using rsync
+* Docker-based deployment with NGINX
+
+---
+
+### 🔹 Go CRUD API with PostgreSQL
+
+Developed a RESTful backend service using Go and PostgreSQL.
+
+* Implemented full CRUD operations
+* Dockerized application setup
+* Optimized database queries
+
+---
+
+### 🔹 Docker-based Deployment Setup
+
+Designed containerized deployment architecture for backend services.
+
+* Used Docker & NGINX reverse proxy
+* Improved deployment consistency and scalability
+
 
 ---
 

@@ -1,6 +1,7 @@
 # Hi, I'm Mohd Askari 👋
 
 🚀 Backend Engineer | Go | Node.js | Docker | PostgreSQL
+• Experience working on production environments with uptime, failover, and system reliability focus
 
 ---
 
